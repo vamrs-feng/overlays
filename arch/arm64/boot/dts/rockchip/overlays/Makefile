@@ -447,7 +447,16 @@ dtb-$(CONFIG_CLK_RK3588) += \
 	rock-5b-radxa-display-10hd.dtbo \
 	rock-5b-radxa-display-8hd.dtbo \
 	rock-5b-rpi-camera-v2.dtbo \
-	rock-5b-sata.dtbo
+	rock-5b-sata.dtbo \
+	rock-5d-okdo-camera-5mp-cam0.dtbo \
+	rock-5d-okdo-camera-5mp-cam1.dtbo \
+	rock-5d-radxa-camera-4k.dtbo \
+	rock-5d-rpi-camera-v2-cam0.dtbo \
+	rock-5d-rpi-camera-v2-cam1.dtbo \
+	rock-5d-rpi-camera-v1p3-cam0.dtbo \
+	rock-5d-rpi-camera-v1p3-cam1.dtbo
+
+
 
 dtb-$(CONFIG_CPU_RK3588) += \
 	radxa-cm5-io-okdo-5mp.dtbo \
